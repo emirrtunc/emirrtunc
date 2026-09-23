@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Emir Ali Tunçdan 👋
 
-<!--
-**emirrtunc/emirrtunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student focused on becoming a **Backend Developer**.
 
-Here are some ideas to get you started:
+Currently, I'm improving my programming fundamentals with **C#** and learning **Python** and **SQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 Software Engineering student
+- 💻 Interested in Backend Development
+- 🐍 Currently learning Python for backend development
+- 🗄️ Learning SQL and database fundamentals
+- 🔧 Using Git & GitHub for version control
+- 📚 Continuously improving my software development skills
+
+## Tech Stack
+
+**Languages**
+
+- C#
+- Python — Learning
+- SQL — Learning
+
+**Tools**
+
+- Git
+- GitHub
+
+## Current Focus
+
+- Python fundamentals
+- Backend development
+- SQL and database concepts
+- Writing cleaner and more structured code
+
+## Goals
+
+My goal is to build a strong foundation in backend development and gradually work on real-world projects using Python, databases, and modern backend technologies.
